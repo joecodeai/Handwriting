@@ -1,0 +1,6 @@
+pandas
+numpy
+pyarrow
+albumentations
+opencv-python
+h5py
